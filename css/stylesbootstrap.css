@@ -1,0 +1,165 @@
+.navbar-default .navbar-nav > .active > a
+, .navbar-default .navbar-nav > .active > a:hover
+, .navbar-default .navbar-nav > .active > a:focus{
+
+	background: #fff;
+	color: #d57950;
+}
+.navbar-default .navbar-nav > li > a{
+	color: #fff;
+}
+.carousel-indicators .active{
+	background-color: #d57950;
+}
+h1,h4,.h1{
+	color: #d57950;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.span{
+	color: #fff;
+	font-weight: bold;
+}
+.navbar{
+	border-bottom: 5px solid #d57950;
+	background: #f28858;
+	margin-bottom: 0;
+}
+
+.carousel-caption .btn{
+	margin-bottom: 40px;
+	margin-top: 20px;
+	background: #f28858;
+	color: #fff;
+	font-weight: bold;
+	border-bottom: 5px solid #d57950;
+}
+
+.carousel-inner img{
+	width: 100%;
+}
+.arowright a{
+	float: right;
+	margin-top: 50px;
+	text-decoration: none;
+	background: #f28858;
+	padding: 3px;
+	border-bottom:3px solid #d57950;
+	border-right:3px solid #d57950;
+}
+.arowleft a{
+	float: left;
+	margin-top: 50px;
+	text-decoration: none;
+	background: #f28858;
+	padding: 3px;
+	border-bottom:3px solid #d57950;
+	border-left:3px solid #d57950;
+}
+.Servise{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.serimg{
+	font-size: 100px;
+}
+.btnmore .btn{
+		background: #f28858;
+		color: #fff;
+		border-bottom: 5px solid #d57950;
+}
+.teemarow{
+	float: right;
+	/*margin-right: 0;*/
+}
+.user{
+	font-size: 100px;
+
+}
+.teemaroww a{
+	text-decoration: none;
+	margin-top: 40px;
+}
+.margin{
+	margin-right: 40px;
+}
+.sectionuser{
+	margin-top: 50px;
+}
+.gallary,.contact{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.btnmore .active{
+		background: #ddd;
+		border-bottom: 5px solid #ccc;
+		color: #333
+
+}
+.pc{
+	font-size: 200px;
+}
+.form-control{
+	margin-bottom: 10px;
+}
+.bold{
+	font-weight: bold;
+	margin-top: 30px;
+}
+.footer{
+	border-top: 5px solid #d57950;
+	background: #f28858;
+	line-height: 40px;
+}
+@media(max-width:500px ){
+
+.pc{
+	font-size: 100px;
+}
+.user{
+	font-size: 50px;
+
+}
+.margin{
+	margin-right: 20px;
+}
+h1,h2{
+	font-size: 20px;
+}
+h4{
+	font-size: 8px;
+}
+.serimg{
+	font-size: 50px;
+}
+.btnmore .btn{
+		background: #f28858;
+		color: #fff;
+		font-size: 10px;
+}
+.display{
+	display: none;
+}
+.gallary,.contact{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+}
+
+@media(max-width:750px ){
+.carousel-caption .btn{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background: #f28858;
+	color: #fff;
+	font-weight: bold;
+	font-size: 10px;
+}
+.h1{
+	font-size: 20px;
+}
+.gallary,.contact{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+}
